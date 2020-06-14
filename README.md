@@ -45,6 +45,7 @@ Screenshot-
   - The greenhouses and spaceships have light sources that will be turned on during night time and illuminate the surroundings.
      
    Screenshot- 
+   
    <img src="./Screenshots/Game_Mode.png" height="200" width="400">
 
 - ***Day and Night mode***
